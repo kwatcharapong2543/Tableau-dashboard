@@ -1,5 +1,5 @@
 # Tableau-dashboard
-Topic : Brithis Airway
+Topic : British Airways Reviews
 - My dashboard
 ![Dashboard](https://github.com/kwatcharapong2543/Tableau-dashboard/assets/158846091/274996a8-cf6c-4448-abe0-846413bce035)
 
