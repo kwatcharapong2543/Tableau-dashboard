@@ -2,7 +2,8 @@
 
 - Training Tableau - Dashboard
 - My dashboard
-[Aircarft Dashboard.pdf](https://github.com/kwatcharapong2543/Tableau-dashboard/files/14322242/Aircarft.Dashboard.pdf)
+- ![Aircarft Dashboard.pdf](https://github.com/kwatcharapong2543/Tableau-dashboard/files/14322243/Aircarft.Dashboard.pdf)
+
 
 
 
